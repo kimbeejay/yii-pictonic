@@ -29,3 +29,8 @@ Installation
           'method' => 'print', // optional param : output method (print|return)
         )
       ),
+
+Usage
+------------
+
+Yii::app()->pictonic->getIcon(Pictonic::ICON_PROG_YII);

@@ -33,4 +33,4 @@ Installation
 Usage
 ------------
 
-Yii::app()->pictonic->getIcon(Pictonic::ICON_PROG_YII);
+      Yii::app()->pictonic->getIcon(Pictonic::ICON_PROG_YII);
